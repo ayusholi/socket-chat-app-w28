@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-07-08T13:00:02.346Z
+Last updated: 2026-07-09T13:00:01.232Z
 
-## Summary
+## Progress
 
-- mock external dependencies in tests
+- move constants to dedicated config file
