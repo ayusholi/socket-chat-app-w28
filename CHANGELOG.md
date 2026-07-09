@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add end-to-end test suite
-- Build: 2026-07-08T13:00:02.346Z
+- implement error handling middleware
+- Updated: 2026-07-09T13:00:01.232Z
