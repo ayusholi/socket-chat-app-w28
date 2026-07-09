@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement error handling middleware
-- Updated: 2026-07-09T13:00:01.232Z
+- simplify conditional logic
+- Build: 2026-07-09T13:00:01.232Z
