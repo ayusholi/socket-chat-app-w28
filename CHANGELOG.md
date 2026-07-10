@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- simplify conditional logic
-- Build: 2026-07-09T13:00:01.232Z
+- optimize database query performance
+- Updated: 2026-07-10T13:00:01.832Z
