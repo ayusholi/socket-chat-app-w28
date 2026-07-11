@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add caching layer for improved performance
-- Build: 2026-07-10T13:00:01.832Z
+- update README with usage examples
+- Updated: 2026-07-11T13:00:01.108Z
