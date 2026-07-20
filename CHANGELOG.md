@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add environment variable support
-- Build: 2026-07-18T13:00:01.430Z
+- update README with usage examples
+- Updated: 2026-07-20T13:00:01.119Z
