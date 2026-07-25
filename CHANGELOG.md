@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add gitignore and project config files
-- Build: 2026-07-23T13:00:01.569Z
+- correct date parsing for different locales
+- Updated: 2026-07-25T13:00:01.407Z
